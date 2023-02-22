@@ -1,6 +1,19 @@
 ## Getting Started
+1.
+install npm and node.
 
-First, run the development server:
+2. Download and install the coede on your machine.
+```bash
+git clone https://github.com/malfalasi1017/events-nextjs-ourse
+cd events-nextjs-course
+pnpm install
+# or
+yarn
+# or
+npm install
+```
+
+3. run the development server:
 
 ```bash
 npm run dev
